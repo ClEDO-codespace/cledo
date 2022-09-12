@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../FlowCell"
+		},
+		{
+			"name": "cledo",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
